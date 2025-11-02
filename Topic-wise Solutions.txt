@@ -1,0 +1,184 @@
+Algorithms and Functions:
+9608 MJ 2015 P41 P42 Q3 Function.py
+9608 MJ 2015 P43 Q3 Function.py
+9608 MJ 2016 P41 P43 Q5 Function.py
+9608 MJ 2016 P41 P43 Q6 Algorithm.py
+9608 MJ 2018 P42 Q1 Algorithm.py
+
+Searching:
+9608 MJ 2017 P41 P43 Q3 BinarySearchRecursive.py
+9608 MJ 2018 P42 Q3 InsertionSort BinarySearch.py
+9608 MJ 2021 P41 P43 Q5 BinarySearch Recursion.py
+9608 ON 2021 P41 P43 Q3 BinarySearch.py
+9618 MJ 2021 P41 P42 P43 Q2 LinearSearch BubbleSort.py
+9618 MJ 2022 P42 Q2 BubbleSort BinarySearch.py
+9618 MJ 2023 P41 P43 Q1 Filing LinearSearch.py
+9618 MJ 2024 P41 P43 Q1 BinarySearch.py
+9618 MJ 2024 P42 Q3 InsertionSort BinarySearch Recursion.py
+9618 ON 2022 P41 P43 Q1 Filing LinearSearch BubbleSort.py
+
+Bubble Sort:
+9608 MJ 2018 P41 P43 Q2 BubbleSort.py
+9608 ON 2018 P42 Q3 BubbleSort.py
+9608 ON 2020 P41 P43 Q5 BubbleSort.py
+9608 ON 2021 P42 Q1 BubbleSort.py
+9618 MJ 2021 P41 P42 P43 Q2 LinearSearch BubbleSort.py
+9618 MJ 2022 P42 Q2 BubbleSort BinarySearch.py
+9618 MJ 2023 P42 Q1 BubbleSort.py
+9618 ON 2022 P41 P43 Q1 Filing LinearSearch BubbleSort.py
+9618 ON 2024 P41 P43 Q1 Filing BubbleSort.py
+9618 ON 2024 P42 Q3 Filing BubbleSort.py
+
+InsertionSort:
+9608 MJ 2015 P41 P42 Q5 InsertionSort.py
+9608 MJ 2018 P42 Q3 InsertionSort BinarySearch.py
+9608 ON 2017 P42 Q4 InsertionSort.py
+9618 MJ 2024 P42 Q3 InsertionSort BinarySearch Recursion.py
+9618 ON 2022 P42 Q1 InsertionSort.py
+9618 Specimen 2021 Q1 InsertionSort.py
+
+Filing:
+9618 MJ 2021 P41 P42 P43 Q3 OOP Filing.py
+9618 MJ 2022 P41 P43 Q1 Filing.py
+9618 MJ 2022 P42 Q3 OOP Filing.py
+9618 MJ 2023 P41 P43 Q1 Filing LinearSearch.py
+9618 MJ 2023 P41 P43 Q3 Filing Stack.py
+9618 MJ 2023 P42 Q3 OOP Filing.py
+9618 MJ 2024 P41 P43 Q2 OOP Filing.py
+9618 MJ 2024 P42 Q1 Filing.py
+9618 MJ 2025 P41 P43 Q2 Filing.py
+9618 MJ 2025 P42 Q1 Stack Filing.py
+9618 MJ 2025 P42 Q2 Hashing Filing.py
+9618 ON 2021 P41 P42 Q2 OOP Filing.py
+9618 ON 2022 P41 P43 Q1 Filing LinearSearch BubbleSort.py
+9618 ON 2023 P41 P43 Q2 Queue Filing.py
+9618 ON 2023 P42 Q1 Filing Stack.py
+9618 ON 2024 P41 P43 Q1 Filing BubbleSort.py
+9618 ON 2024 P42 Q3 Filing BubbleSort.py
+9618 Specimen 2021 Q3 Filing Queue.py
+
+Hashing:
+9608 MJ 2020 P41 P43 Q6 Hashing.py
+9608 MJ 2020 P42 Q2 Hashing.py
+9608 MJ 2021 P41 P43 Q2 Hashing Pickling.py
+9608 MJ 2021 P42 Q2 Hashing.py
+9608 ON 2015 P41 P43 Q5 Hashing Pickling.py
+9608 ON 2015 P42 Q4 Hashing.py
+9608 ON 2018 P41 P43 Q2 OOP Hashing Pickling.py
+9608 ON 2021 P41 P43 Q6 Hashing.py
+9608 ON 2021 P41 P43 Q9 Hashing.py
+9618 MJ 2025 P42 Q2 Hashing Filing.py
+
+Pickling:
+9608 MJ 2021 P41 P43 Q2 Hashing Pickling.py
+9608 ON 2015 P41 P43 Q5 Hashing Pickling.py
+9608 ON 2015 P42 Q6 Pickling.py
+9608 ON 2018 P41 P43 Q2 OOP Hashing Pickling.py
+
+OOP:
+9608 MJ 2015 P41 P42 Q4 OOP.py
+9608 MJ 2015 P43 Q4 OOP.py
+9608 MJ 2017 P42 Q3 OOP.py
+9608 MJ 2018 P41 P43 Q5 OOP.py
+9608 MJ 2018 P42 Q4 OOP.py
+9608 MJ 2019 P41 P43 Q1 OOP.py
+9608 MJ 2019 P42 Q1 OOP.py
+9608 MJ 2020 P41 P43 Q5 OOP.py
+9608 MJ 2020 P42 Q7 OOP.py
+9608 MJ 2021 P41 P43 Q1 OOP.py
+9608 MJ 2021 P42 Q3 OOP.py
+9608 ON 2015 P41 P43 Q3 OOP.py
+9608 ON 2015 P42 Q3 OOP.py
+9608 ON 2016 P41 Q1 OOP.py
+9608 ON 2016 P42 Q1 OOP.py
+9608 ON 2017 P41 P43 Q6 OOP.py
+9608 ON 2017 P42 Q6 OOP.py
+9608 ON 2018 P41 P43 Q2 OOP Hashing Pickling.py
+9608 ON 2018 P41 P43 Q5 OOP.py
+9608 ON 2018 P42 Q4 OOP.py
+9608 ON 2019 P41 P43 Q1 OOP Queue.py
+9608 ON 2019 P42 Q1 OOP.py
+9608 ON 2020 P41 P43 Q3 OOP.py
+9608 ON 2020 P42 Q4 OOP.py
+9608 ON 2021 P42 Q7 OOP.py
+9618 MJ 2021 P41 P42 P43 Q3 OOP Filing.py
+9618 MJ 2022 P41 P43 Q2 OOP.py
+9618 MJ 2022 P42 Q3 OOP Filing.py
+9618 MJ 2023 P41 P43 Q2 OOP.py
+9618 MJ 2023 P42 Q3 OOP Filing.py
+9618 MJ 2024 P41 P43 Q2 OOP Filing.py
+9618 MJ 2025 P42 Q3 OOP.py
+9618 ON 2021 P41 P42 Q2 OOP Filing.py
+9618 ON 2022 P41 P43 Q2 OOP.py
+9618 ON 2022 P42 Q2 OOP FIling.py
+9618 ON 2023 P41 P43 Q3 OOP.py
+9618 ON 2023 P42 Q3 OOP.py
+9618 ON 2024 P41 P43 Q2 OOP.py
+9618 ON 2024 P42 Q1 OOP.py
+9618 Specimen 2021 Q2 OOP.py
+
+LinkedList:
+9608 MJ 2015 P41 P42 Q6 LinkedList Queue.py
+9608 MJ 2015 P43 Q5 LinkedList Stack.py
+9608 MJ 2016 P41 P43 Q1 LinkedList.py
+9608 MJ 2017 P41 P43 Q4 LinkedList.py
+9608 MJ 2018 P41 P43 Q6 LinkedList.py
+9608 MJ 2019 P41 P43 Q2 LinkedList.py
+9608 ON 2018 P42 Q6 LinkedList.py
+9608 ON 2020 P41 P43 Q6 LinkedList.py
+9608 ON 2020 P42 Q6 LinkedList.py
+9618 MJ 2021 P41 P42 P43 Q1 LinkedList.py
+9618 ON 2024 P41 P43 Q3 LinkedList.py
+
+Stacks:
+9608 MJ 2015 P43 Q5 LinkedList Stack.py
+9608 MJ 2019 P42 Q2 Stack.py
+9608 MJ 2021 P41 P43 Q7 Stack.py
+9608 ON 2018 P41 P43 Q3 Stack.py
+9608 ON 2021 P41 P43 Q1 Stack.py
+9608 ON 2021 P42 Q6 Stack.py
+9618 MJ 2022 P42 Q1 Stack.py
+9618 MJ 2023 P41 P43 Q3 Filing Stack.py
+9618 MJ 2025 P42 Q1 Stack Filing.py
+9618 ON 2023 P42 Q1 Filing Stack.py
+
+Queues:
+9608 MJ 2015 P41 P42 Q6 LinkedList Queue.py
+9608 MJ 2021 P42 Q4 CircQueue.py
+9608 ON 2019 P41 P43 Q1 OOP Queue.py
+9608 ON 2019 P42 Q2 CircQueue.py
+9618 MJ 2022 P41 P43 Q3 CircQueue.py
+9618 MJ 2023 P42 Q2 CircQueue.py
+9618 MJ 2024 P41 P43 Q3 Queue.py
+9618 MJ 2025 P41 P43 Q1 CircQueue.py
+9618 ON 2022 P42 Q3 Queue.py
+9618 ON 2023 P41 P43 Q2 Queue Filing.py
+9618 ON 2024 P42 Q2 Queue.py
+9618 Specimen 2021 Q3 Filing Queue.py
+
+Binary Trees:
+9608 MJ 2017 P42 Q2 BinaryTree.py
+9608 MJ 2018 P42 Q6 BinaryTree.py
+9608 MJ 2021 P41 P43 Q4 BinaryTree.py
+9608 ON 2015 P41 P43 Q4 BinaryTree.py
+9608 ON 2021 P41 P43 Q8 BinaryTree.py
+9608 ON 2021 P42 Q4 BinaryTree.py
+9618 MJ 2024 P42 Q2 BinaryTree.py
+9618 MJ 2025 P41 P43 Q3 BinaryTree.py
+9618 ON 2021 P41 P42 Q3 BinaryTree.py
+9618 ON 2022 P41 P43 Q3 BinaryTree.py
+
+Recursion:
+9608 MJ 2015 P43 Q6 Recursion.py
+9608 MJ 2016 P41 P43 Q2 Recursion.py
+9608 MJ 2020 P41 P43 Q2 Recursion.py
+9608 MJ 2020 P42 Q3 Recursion.py
+9608 MJ 2021 P41 P43 Q5 BinarySearch Recursion.py
+9608 ON 2018 P41 P43 Q4 Recursion.py
+9608 ON 2020 P41 P43 Q8 Recursion.py
+9608 ON 2021 P41 P43 Q5 Recursion.py
+9608 ON 2021 P42 Q5 Recursion.py
+9618 MJ 2024 P42 Q3 InsertionSort BinarySearch Recursion.py
+9618 ON 2021 P41 P42 Q1 Recursion.py
+9618 ON 2023 P41 P43 Q1 Recursion.py
+9618 ON 2023 P42 Q2 Recursion.py
