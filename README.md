@@ -1,8 +1,10 @@
 # Cambridge A Level Computer Science P4 (9608 & 9618) Solutions
 
 This repository includes solutions in Python to all Paper 4 questions from both 9608 and 9618 syllabi.
-
+A topic-wise list of questions is available in the **Topic-wise Solutions.txt** file.
 For papers that had filing questions, the relevant source files have been provided as well.
+
+If you have any questions or queries, feel free to reach out to me at **fazalmohani1@gmail.com**
 
 ## 📝 License & Attribution
 
